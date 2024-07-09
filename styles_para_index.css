@@ -1,0 +1,30 @@
+span {
+    color:red
+}
+
+.ingrediente-faltante {
+    color: blue
+}
+
+#Ingrediente-secreto {
+    color: green
+}
+
+.mati{
+    width: 100px;
+    height: 100px;
+}
+
+.pajen{
+    width: 200px;
+    height: 100px;
+}
+
+.nikito{
+    width: 120px;
+    height: 300px;
+}
+
+p {
+    font-size: 10px;
+}
